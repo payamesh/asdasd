@@ -13,12 +13,14 @@ export const Card = ({ card }) => {
                 <img
                     src={card.front}
                     style={{ width: '300px', height: '300px' }}
+                    alt={'-.--'}
                 />
             </div>
             <div>
                 <img
                     src={card.back}
                     style={{ width: '300px', height: '300px' }}
+                    alt={'-.-'}
                 />
                 <h3>{card.info}</h3>
             </div>
