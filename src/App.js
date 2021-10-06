@@ -25,7 +25,7 @@ function App() {
 
     return (
         <Wrapper>
-            <h1 style={{ textAlign: 'center', fontSize: '40px' }}>
+            <h1 style={{ textAlign: 'center', fontSize: '41px' }}>
                 Gabriela fyller 30!!!
             </h1>
             <h2 style={{ textAlign: 'center', fontSize: '30px' }}>
